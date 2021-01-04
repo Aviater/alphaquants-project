@@ -1,0 +1,8 @@
+{
+	"name": "Alphaquants",
+	"description": "Alphaquants web application",
+	"repository": "https://gitlab.com/alphaquants/ui/dashboard",
+	"logo": "https://i.ibb.co/0nnG12m/alphaquants-logo.png",
+	"keywords": ["alphaquants"],
+	"image": "heroku/nodejs"
+}
